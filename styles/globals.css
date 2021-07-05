@@ -10,3 +10,9 @@
     src: url("/fonts/audible.woff2") format("woff2");
   }
 }
+.browse-hover{
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
