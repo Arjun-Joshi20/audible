@@ -3,7 +3,7 @@ import BannerCheck from "./BannerCheck";
 
 function Banner() {
   return (
-    <div style={{ zIndex: "-1" }} className="flex h-[50vh] bg-sapGreen mt-10">
+    <div style={{ zIndex: "-1" }} className="flex h-[60vh] bg-sapGreen mt-10">
       <div className="relative w-[51vw] h-full">
         <Image
           layout="fill"
